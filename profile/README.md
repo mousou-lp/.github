@@ -6,5 +6,6 @@
 
 - 一覧: https://mousou-lp.github.io/
 - 妄想のもとにする未来のこと: https://mousou-lp.github.io/mirai/
+- 未来と偏愛をかけあわせる妄想のタネ: https://mousou-lp.github.io/tane/
 - 自分のLPを作るには: [lp-template](https://github.com/mousou-lp/lp-template)の「Use this template」から
 - 一覧にのせるには: [ポータル](https://github.com/mousou-lp/mousou-lp.github.io)の`lps.json`に1件足す
